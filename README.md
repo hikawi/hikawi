@@ -6,11 +6,13 @@ I go by **Luna** :crescent_moon:! I'm a transgender developer from Vietnam, my n
 
 - :star2: I'm just a humble individual who likes to create pretty things, whether that be weird-looking artworks or colorful text on a dark screen.
 - :paintbrush: I love painting, usually with pretty loud 4-hour commentary YouTube videos playing in the background.
-- :test*tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (\_for as long as it can go on I guess*).
+- :test\*tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (_for as long as it can go on I guess_).
 
 ## Languages
 
 I can speak :uk: **English** quite fluently, :vietnam: **Vietnamese** natively and :jp: **Japanese** at a decent enough level.
+
+> 最近は韓国語もフランス語も勉強始めましてただデュオリンゴで毎日 30 分だけです。　まあ、始めた理由は多分もう当たりありましたね、私のような人間は新しいもの学ぶのが好きですから。このページ書いたときは私まだ能力試験受験しませんでちょっと残念ですよね。
 
 ...
 
@@ -22,12 +24,6 @@ Here are languages/technologies I have worked with, something being before somet
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apl/apl-original.svg?raw=true" alt="APL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg?raw=true" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg?raw=true" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?raw=true" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg?raw=true" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg?raw=true" alt="SolidJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg?raw=true" alt="Astro" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg?raw=true" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg?raw=true" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,6 +34,8 @@ Here are languages/technologies I have worked with, something being before somet
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg?raw=true" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg?raw=true" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg?raw=true" alt="Clojure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg?raw=true" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/uiua/uiua-original.svg?raw=true" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
 ### Tools
@@ -45,6 +43,12 @@ Here are languages/technologies I have worked with, something being before somet
 Additional tools that do not classify as languages and deviations of them.
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg?raw=true" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg?raw=true" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg?raw=true" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg?raw=true" alt="Svelte" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg?raw=true" alt="SolidJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg?raw=true" alt="Astro" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?raw=true" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg?raw=true" alt="Figma" width="40" height="40"/>&nbsp;
@@ -56,6 +60,9 @@ Additional tools that do not classify as languages and deviations of them.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg?raw=true" alt="ViteJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg?raw=true" alt="Vitest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg?raw=true" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg?raw=true" alt="XCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg?raw=true" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg?raw=true" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
 
 ## Links
