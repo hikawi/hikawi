@@ -6,7 +6,7 @@ I go by **Luna** :crescent_moon:! I'm a transgender developer from Vietnam, my n
 
 - :star2: I'm just a humble individual who likes to create pretty things, whether that be weird-looking artworks or colorful text on a dark screen.
 - :paintbrush: I love painting, usually with pretty loud 4-hour commentary YouTube videos playing in the background.
-- :test_tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (_for as long as it can go on I guess_).
+- :test*tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (\_for as long as it can go on I guess*).
 
 ## Languages
 
@@ -35,7 +35,6 @@ Here are languages/technologies I have worked with, something being before somet
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg?raw=true" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg?raw=true" alt="Clojure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg?raw=true" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/uiua/uiua-original.svg?raw=true" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
 ### Tools
