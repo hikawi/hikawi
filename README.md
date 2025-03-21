@@ -2,6 +2,8 @@
 
 I go by **Luna** :crescent_moon:! I'm a transgender developer from Vietnam, my native name is **Nguyệt Ánh**, which means "Moonlight". You probably get why I chose "Luna" as my online alias ;)
 
+> 初めまして。英語の名前ならルーナと申します :crescent_moon:。　ベトナムからトランスジェンダー開発者であり、本名って「**Nguyet Anh**」と書いています。私を呼ぶ時、やっぱり一番のは「アン」ですからお呼びください。　ちなみに、月の反映の光という意味です。
+
 ## About me!
 
 - :star2: I'm just a humble individual who likes to create pretty things, whether that be weird-looking artworks or colorful text on a dark screen.
@@ -35,6 +37,7 @@ Here are languages/technologies I have worked with, something being before somet
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg?raw=true" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg?raw=true" alt="Clojure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg?raw=true" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg?raw=true" alt="ObjC" width="40" height="40"/>&nbsp;
 </div>
 
 ### Tools
