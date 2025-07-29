@@ -8,7 +8,7 @@ I go by **Luna** :crescent_moon:! I'm a transgender developer from Vietnam, my n
 
 - :star2: I'm just a humble individual who likes to create pretty things, whether that be weird-looking artworks or colorful text on a dark screen.
 - :paintbrush: I love painting, usually with pretty loud 4-hour commentary YouTube videos playing in the background.
-- :test*tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (\_for as long as it can go on I guess*).
+- :test_tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (for as long as it can go on I guess).
 
 ## Languages
 
@@ -38,6 +38,7 @@ Here are languages/technologies I have worked with, something being before somet
   <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg?raw=true" alt="Clojure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg?raw=true" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg?raw=true" alt="ObjC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?raw=true" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
 ### Tools
@@ -65,12 +66,15 @@ Additional tools that do not classify as languages and deviations of them.
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg?raw=true" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg?raw=true" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg?raw=true" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg?raw=true" alt="SDL3" width="40" height="40"/>&nbsp;
 </div>
 
 ## Links
 
-- :computer: My website: [https://frilly.dev](https://frilly.dev/).
-- :star: My most ambitious project: [Lubook](https://lubook.club/), if it's still online lol, or check the [repository](https://github.com/hikawi/lubook).
+- :computer: My website: [https://luny.dev](https://luny.dev/). Still under construction.
+- :star: My most ambitious projects:
+  - [Lubook](https://lubook.club/), if it's still online lol, or check the [repository](https://github.com/hikawi/lubook).
+  - [CCSakura](https://cc-sakura.luny.dev/). Or check the pure C repository [here](https://github.com/hikawi/cc-sakura).
 
 ## The stats >:O
 
