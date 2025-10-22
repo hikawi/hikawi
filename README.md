@@ -43,6 +43,7 @@ Here are languages/technologies I have worked with, grouped by my competency in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" alt="Scala"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="40" alt="Objective-C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" alt="Go" />
 </p>
 
 **Languages I Explored**: Languages that I explored as a way to broaden my own knowledge, and learn more paradigms and ways to solve problems. Given a task involving these languages, it would take a bit of time to get on my feet.
@@ -55,7 +56,6 @@ Here are languages/technologies I have worked with, grouped by my competency in 
   <img src="https://www.uiua.org/assets/uiua-logo.png" height="40" alt="Uiua"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" alt="AArch64 ASM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="40" alt="Elixir" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg" width="40" alt="Groovy" />
 </p>
 
@@ -119,13 +119,15 @@ Editors, collaboration platforms, and utilities I frequently use in development.
 
 ## Links
 
-- :computer: My website: [https://luny.dev](https://luny.dev/). Still under construction.
+- :computer: My website: [https://luny.dev](https://www.luny.dev/).
 - :star: My most ambitious projects:
   - [Lubook](https://lubook.club/), if it's still online lol, or check the [repository](https://github.com/hikawi/lubook).
   - [CCSakura](https://cc-sakura.luny.dev/). Or check the repository [here](https://github.com/hikawi/cc-sakura).
 
 ## The stats >:O
 
+![Wakatime Stats](https://github-stats.luny.dev/api/wakatime?username=hikawi&layout=compact&langs_count=10)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hikawi&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikawi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-stats.luny.dev/api/top-langs/?username=hikawi&layout=pie&langs_count=10&exclude_repo=practice-software-testing&theme=transparent)
