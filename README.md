@@ -128,6 +128,6 @@ Editors, collaboration platforms, and utilities I frequently use in development.
 
 ![Wakatime Stats](https://github-stats.luny.dev/api/wakatime?username=hikawi&layout=compact&langs_count=10)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hikawi&theme=dark)](https://git.io/streak-stats)
+![Github Streak](https://git-streak.luny.dev/?user=hikawi&theme=transparent)
 
 ![Top Languages](https://github-stats.luny.dev/api/top-langs/?username=hikawi&layout=pie&langs_count=10&exclude_repo=practice-software-testing&theme=transparent)
