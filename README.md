@@ -1,6 +1,6 @@
 # heyyy!! :wave: :wave: :wave:
 
-I go by **Luna** :crescent_moon:! I'm a transgender developer from Vietnam, my native name is **Nguyệt Ánh**, which means "Moonlight". You probably get why I chose "Luna" as my online alias ;)
+I go by **Luna** :crescent_moon:! I'm a developer from Vietnam, my native name is **Nguyệt Ánh**, which means "Moonlight". You probably get why I chose "Luna" as my online alias ;)
 
 > 初めまして。英語の名前ならルーナと申します :crescent_moon:。　ベトナムからトランスジェンダー開発者であり、本名って「**Nguyet Anh**」と書いています。私を呼ぶ時、やっぱり一番のは「アン」ですからお呼びください。　ちなみに、月の反映の光という意味です。
 
@@ -121,7 +121,7 @@ Editors, collaboration platforms, and utilities I frequently use in development.
 
 - :computer: My website: [https://luny.dev](https://www.luny.dev/).
 - :star: My most ambitious projects:
-  - [Lubook](https://lubook.club/), if it's still online lol, or check the [repository](https://github.com/hikawi/lubook).
+  - [Lubook](https://lubook.luny.dev/), if it's still online lol, or check the [repository](https://github.com/hikawi/lubook).
   - [CCSakura](https://cc-sakura.luny.dev/). Or check the repository [here](https://github.com/hikawi/cc-sakura).
 
 ## The stats >:O
