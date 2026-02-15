@@ -2,7 +2,7 @@
 
 I go by **Luna** :crescent_moon:! I'm a developer from Vietnam, my native name is **Nguyệt Ánh**, which means "Moonlight". You probably get why I chose "Luna" as my online alias ;)
 
-> 初めまして。英語の名前ならルーナと申します :crescent_moon:。　ベトナムからトランスジェンダー開発者であり、本名って「**Nguyet Anh**」と書いています。私を呼ぶ時、やっぱり一番のは「アン」ですからお呼びください。　ちなみに、月の反映の光という意味です。
+> 始めました。英語の名前を呼びたい場合にはルーナと申します :crescent_moon:。ベトナム出身の開発者であり、本名ってこう「**Nguyet Anh**」なります。「アンちゃん」で一番いいと思いますので、できたらお呼びください。意味というのなら、「月の反映」かな？
 
 ## About me
 
@@ -10,11 +10,13 @@ I go by **Luna** :crescent_moon:! I'm a developer from Vietnam, my native name i
 - :paintbrush: I love painting, usually with pretty loud 4-hour commentary YouTube videos playing in the background.
 - :test_tube: I like to challenge myself with interesting things to explore. My funniest project would be `advent-of-code`, where each year I try to do a fun and unusual thing to learn. For example, I did all of 2015's problems in Dyalog APL, an array programming language, or in 2023 where I use one different language for each day (for as long as it can go on I guess).
 
+日本語版も書いたつもりだったけど、なんてね。
+
 ## Languages
 
 I can speak :uk: **English** quite fluently, :vietnam: **Vietnamese** natively and :jp: **Japanese** at a decent enough level.
 
-> 最近は韓国語もフランス語も勉強始めましてただデュオリンゴで毎日 30 分だけです。　まあ、始めた理由は多分もう当たりありましたね、私のような人間は新しいもの学ぶのが好きですから。このページ書いたときは私まだ能力試験受験しませんでちょっと残念ですよね。
+> プログラミング言語じゃなく、自然言語について語ってたね。英語ならペラペラできるけど、日本語はまだそのレベルに達しないよね。普通な日常会話くらいなら簡単だと思いますけど、複雑なビジネス場合にはおそらく、伝えてくるかなと。その上、日本語能力試験も受験していないから、説明価値がないですね。
 
 ...
 
@@ -123,6 +125,7 @@ Editors, collaboration platforms, and utilities I frequently use in development.
 - :star: My most ambitious projects:
   - [Lubook](https://lubook.luny.dev/), if it's still online lol, or check the [repository](https://github.com/hikawi/lubook).
   - [CCSakura](https://cc-sakura.luny.dev/). Or check the repository [here](https://github.com/hikawi/cc-sakura).
+  - [FoodBasket](https://foodbasket.app). Or check the repository [here](https://github.com/hikawi/foodbasket).
 
 ## The stats >:O
 
